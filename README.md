@@ -14,9 +14,7 @@ As a beginner web developer, I used the following languages to make my website:
 + JavaScript 
 
 # Demo
-[Don't forget subscribe :p](https://youtu.be/kVWLmEqIgPg?si=zdHwCayyS4jLSGrV)
-
-[![Video Title](https://img.youtube.com/vi/zdHwCayyS4jLSGrV/0.jpg)](https://www.youtube.com/watch?v=zdHwCayyS4jLSGrV)
+[![Video Title](https://img.youtube.com/vi/kVWLmEqIgPg/0.jpg)](https://www.youtube.com/watch?v=kVWLmEqIgPg)
 
 
 # What's in store for this project's future?
