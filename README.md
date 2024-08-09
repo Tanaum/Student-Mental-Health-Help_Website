@@ -16,6 +16,8 @@ As a beginner web developer, I used the following languages to make my website:
 # Demo
 [Don't forget subscribe :p](https://youtu.be/kVWLmEqIgPg?si=zdHwCayyS4jLSGrV)
 
+[![Video Title](https://img.youtube.com/vi/zdHwCayyS4jLSGrV/0.jpg)](https://www.youtube.com/watch?v=zdHwCayyS4jLSGrV)
+
 
 # What's in store for this project's future?
 - Indefinitely store the journal entries onto the users computer.
@@ -23,6 +25,6 @@ As a beginner web developer, I used the following languages to make my website:
 - Checkboxes stay checked off for an entire day
 
 # Fun (?) facts
-. This project was actually made for a hackthon (Empower Hacks 2.0).
-. I did majority of the development on my smartphone using Replit (not sponsored :p (yet)).
-. I am thinking of making the journal a separate project of its own.
+- This project was actually made for a hackthon (Empower Hacks 2.0).
+- I did majority of the development on my smartphone using Replit (not sponsored :p (yet)).
+- I am thinking of making the journal a separate project of its own.
