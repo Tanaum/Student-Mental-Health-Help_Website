@@ -26,4 +26,5 @@ As a beginner web developer, I used the following languages to make my website:
 - This project was actually made for a hackthon (Empower Hacks 2.0).
 - I did majority of the development on my smartphone using Replit (not sponsored :p (yet)).
 - I am thinking of making the journal a separate project of its own.
+  
   ↳ Built the backbone of it, now just have to use CSS to make it pretty!
