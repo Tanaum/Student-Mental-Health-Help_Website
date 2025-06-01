@@ -1,5 +1,5 @@
 # Description 
-Students around the globe face a lot of due to many reasons. Thus, I created a website which offers awesome tools for students to use!
+Students around the globe face a lot of stress due to various reasons. To help with that, I created a website that offers helpful tools to support their well-being and productivity.
 
 # Features
 1. All important stress management advice for students in one place.
@@ -18,11 +18,12 @@ As a beginner web developer, I used the following languages to make my website:
 
 
 # What's in store for this project's future?
-- Indefinitely store the journal entries onto the users computer.
-- Have a system for accounts so users can access their journal entries remotely.
-- Checkboxes stay checked off for an entire day
+- [x] Indefinitely store the journal entries onto the users computer.
+- [ ] Have a system for accounts so users can access their journal entries remotely.
+- [ ] Checkboxes stay checked off for an entire day
 
 # Fun (?) facts
 - This project was actually made for a hackthon (Empower Hacks 2.0).
 - I did majority of the development on my smartphone using Replit (not sponsored :p (yet)).
 - I am thinking of making the journal a separate project of its own.
+  ↳ Built the backbone of it, now just have to use CSS to make it pretty!
