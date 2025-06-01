@@ -34,6 +34,15 @@ function saveDiaryContent(){
     }
 
     diaryEntry.val(''); // Clear the textarea after submission
+
+    var entryHTML = `
+            <div class="diaryentryBox">
+                <p><strong>${diaryPage.todaysDate}:</strong></p>
+                <p>${diaryPage.diaryContent}</p>
+            </div>
+        `;
+
+    diaryEntries.append(entryHTML);
 };
 
 function displayPreviousEntries(){
